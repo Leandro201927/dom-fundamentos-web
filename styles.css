@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+#todo-list {
+  margin-top: 20px;
+}
